@@ -1,0 +1,12 @@
+{
+  "thresholds": {
+    "above": 10.00,
+    "below": 2.00,
+    "change_pct": 5.0
+  },
+  "check_interval_seconds": 300,
+  "notification": {
+    "format": "telegram",
+    "chat_id": ""
+  }
+}
